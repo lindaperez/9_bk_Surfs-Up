@@ -82,10 +82,12 @@ This data gives us a summary of different statistics for the amount of temperatu
 * We could infer that vast majority of observations have temperatures over 64 degrees in both months.
 * The variability in both months is not extreme or very hight. 
 * The different in average of temperature in both month is only 3 degrees. 
+* December has more precipitations than June
+* The precipitation is lower level one it is not representative
 
 Some queries that would help with the analysis of June and December are:
 
-1. Amount of precipitation in June and Dec to have idea of how much precipitation Ohau has
+1. Amount of precipitation in June and Dec to have idea of how much precipitation Ohau might have
 ```
 june_prcp = session.query(Measurement.date,Measurement.prcp).\
 filter(extract('month',Measurement.date)==6).\
