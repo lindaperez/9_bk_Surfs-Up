@@ -56,17 +56,26 @@ This data gives us a summary of different statistics for the amount of temperatu
 
 ### Summary Statistics of precipitations for June and December (Future trendings)
 
+
+|June Precipitations | December Precipitations | 
+| --------------- | --------------- | 
+| The majority of the precipitations are level 0.13 | The majority of the precipitations are around 0.21 |
+| Maximun precipitation level 4.43 | Maximun precipitation level is 6.42 | 
+| June has regular variability | More fluctuations than June | 
+
+
+
 ![june](https://github.com/lindaperez/surfs_up/blob/main/Resources/jun_pre.png) 
+
+* Outliers out of the mean and percentiles:
+
  ![june](https://github.com/lindaperez/surfs_up/blob/main/Resources/jun_outliners.png) 
 
 ![june](https://github.com/lindaperez/surfs_up/blob/main/Resources/dec_prep.png) 
-  ![june](https://github.com/lindaperez/surfs_up/blob/main/Resources/dec_outliers.png) 
+
+* Outliers out of the mean and percentiles:
+![june](https://github.com/lindaperez/surfs_up/blob/main/Resources/dec_outliers.png) 
  
- 
-
-
-
-
 
 ## Summary: 
 
